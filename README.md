@@ -1,1 +1,1 @@
-# Organizing-Containers-of-Balls-algo
+# Organizing-Containers-of-Balls-algo It checks whether it’s possible to rearrange balls in containers so that each container holds only one type of ball. The function organizingContainers (currently empty) will compare the total number of each ball type with the total capacity of each container and return "Possible" or "Impossible" based on whether a perfect match can be made.
